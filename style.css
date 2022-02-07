@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;;
+}
+
+img {
+   width: 100%;
+   
+}
+header, .about_title{
+    text-align: center;
+    text-transform: uppercase;
+}
+header h2, .about_title h2{
+    
+       font-size: 25px;
+        padding: 15px;
+        font-weight: 600;
+        line-height: 40px;
+        
+}
+.wrapper{
+    width: 1100px;
+    border: 3px solid #000;
+    margin: 0 auto;
+}
+.about_title{
+
+}
+.about_left {
+    width: 690px;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    
+    
+}
+
+.about_left p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.about_right {
+    width: 280px;
+    padding: 5px;
+    margin: 10px;
+    float: right;
+}
+.about_right img{
+    height: 200px;
+}
+.image_area img {
+    height: 550px;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 16px;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+}
